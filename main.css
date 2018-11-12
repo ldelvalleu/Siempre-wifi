@@ -1,0 +1,29 @@
+.bg-orange{
+    background-color: #E98C3C;
+    padding: 0;
+}
+
+.bg-gray{
+    background-color: #D4D4D4;
+}
+
+.palm-der{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.align-center{
+    display: flex;
+    align-items: center;
+}
+.bg-dark-gray{
+    background-color: #575757;
+}
+
+.color-white{
+    color: white;
+}
+
+.m-center{
+    margin: auto;
+}
